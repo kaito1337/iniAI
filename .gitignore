@@ -1,0 +1,6 @@
+.env
+postgres_data
+tmp
+logs/*.txt
+.idea
+docker-compose.yml
